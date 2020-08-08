@@ -1,0 +1,22 @@
+#nav-header {
+    height: 80px;
+    background-color: rgb(226, 21, 35);
+}
+
+#fund-area {
+    position: relative;
+    border: 1px solid red;
+}
+
+#fund-title {
+    font-size: 20px;
+}
+
+#fund-value {
+    font-size: 75px;
+}
+
+#value-in {
+    position: relative;
+    border: 1px solid red;
+}
